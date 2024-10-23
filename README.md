@@ -1,1 +1,1 @@
-# TicTacToePy
+# Python Class
